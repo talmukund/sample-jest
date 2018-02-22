@@ -27,9 +27,6 @@
       "^.+\\.jsx$": "babel-jest",
       "^.+\\.js$": "babel-jest"
     },
-    "snapshotSerializers": [
-      "enzyme-to-json/serializer"
-    ],
     "coverageReporters": [
       "text",
       "cobertura",
